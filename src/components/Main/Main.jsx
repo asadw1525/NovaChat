@@ -65,7 +65,7 @@ const Main = () => {
                 </div>
             </div>
             <p className="bottom-info">
-                Gemini display inaccurate info, including about people, so doubl-check its result.
+                NovaChat display inaccurate info, including about people, so double-check its result.
             </p>
         </div>
       </div>
